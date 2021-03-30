@@ -1,1 +1,1 @@
-module "tools/logparser"
+module "github.com/apamuce/logparser"

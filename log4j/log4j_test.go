@@ -1,9 +1,9 @@
 package log4j
 
 import (
+	lparse "github.com/apamuce/logparser"
 	"testing"
 	"time"
-	lparse "tools/logparser"
 )
 
 const reg_exp = `([0-9A-Za-z,-\\/]+\s[0-9A-Za-z-:]+),[0-9]+\s([0-9]+)\s+([\w]+)\s+(\[.+\])\s(\(.+\))(.*)`

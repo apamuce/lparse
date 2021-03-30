@@ -2,10 +2,10 @@ package log4j
 
 import (
 	"fmt"
+	lparse "github.com/apamuce/logparser"
 	"regexp"
 	"strings"
 	"time"
-	lparse "tools/logparser"
 )
 
 const (
