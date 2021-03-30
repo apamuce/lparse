@@ -1,7 +1,7 @@
 package log4j
 
 import (
-	lparse "github.com/apamuce/logparser"
+	"github.com/apamuce/lparse"
 	"testing"
 	"time"
 )

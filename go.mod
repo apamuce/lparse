@@ -1,1 +1,1 @@
-module "github.com/apamuce/logparser"
+module "github.com/apamuce/lparse"
